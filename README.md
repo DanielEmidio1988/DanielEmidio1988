@@ -3,7 +3,7 @@
 
 
 ### Sobre mim
-- Seja muito bem vindo! Aqui você encontrará meus projetos pessoais e de estudo. Sinta-se livre para explorar e também a conhecer meu [Portfólio Pessoal](https://danielemidio1988.github.io/Portfolio/).
+- Olá! Aqui você encontrará meus projetos pessoais e de estudo. Sinta-se livre para explorar e também a conhecer meu [Portfólio Pessoal](https://danielemidio1988.github.io/Portfolio/).
 
 - Acredito que o desenvolvimento humano alinhado às políticas e estratégias da organização são a chave para o sucesso de qualquer negócio.
 
