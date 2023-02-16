@@ -5,7 +5,7 @@
 
 - Acredito que o desenvolvimento humano alinhado às políticas e estratégias da organização são a chave para o sucesso de qualquer negócio.
 
-- Atualmente estou me aberto a novas oportunidades no mercado. Caso tenha interesse, vamos marcar um bate-papo.
+- Atualmente estou aberto a novas oportunidades no mercado. Caso tenha interesse, vamos marcar um bate-papo.
 
 
 ## ⚒Ferramentas e Linguagens
