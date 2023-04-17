@@ -5,7 +5,9 @@
 
 - Acredito que o desenvolvimento humano alinhado às políticas e estratégias da organização são a chave para o sucesso de qualquer negócio.
 
-- Atualmente estou aberto a novas oportunidades no mercado. Caso tenha interesse, vamos marcar um bate-papo.
+- Sou determinado, motivado e adoro trocar experiências com outras pessoas, além de gostar de enfrentar novos desafios. Estou sempre aberto a novas oportunidades que me permitam crescer profissionalmente e agregar valor a projetos inovadores. 
+
+- Se você estiver interessado em conversar comigo, fique à vontade para entrar em contato.
 
 
 ## ⚒Ferramentas e Linguagens
