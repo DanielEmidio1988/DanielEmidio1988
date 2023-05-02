@@ -17,6 +17,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -44,5 +45,7 @@ E-mail: emidio.daniel@hotmail.com
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielEmidio1988&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEmidio1988&layout=compact)](https://github.com/DanielEmidio1988/github-readme-stats)
+
+[![Daniel github trophy](https://github-profile-trophy.vercel.app/?username=DanielEmidio1988&row=1)](https://github.com/DanielEmidio1988/github-profile-trophy)
 
 
