@@ -7,6 +7,8 @@
 
 - Sou determinado, motivado e adoro trocar experiências com outras pessoas, além de gostar de enfrentar novos desafios. Estou sempre aberto a novas oportunidades que me permitam crescer profissionalmente e agregar valor a projetos inovadores. 
 
+- No momento, estou mergulhado na programação mobile, especialmente no desenvolvimento Android. Estou animadíssimo em criar projetos que sejam incríveis tanto no celular quanto na web. Acho que essa combinação vai abrir muitas portas legais e me permitir contribuir em projetos que são super versáteis e completos.
+
 - Se você estiver interessado em conversar comigo, fique à vontade para entrar em contato.
 
 
@@ -30,6 +32,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
