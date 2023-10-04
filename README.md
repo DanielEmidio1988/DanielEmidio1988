@@ -7,7 +7,7 @@
 
 - Sou determinado, motivado e adoro trocar experiências com outras pessoas, além de gostar de enfrentar novos desafios. Estou sempre aberto a novas oportunidades que me permitam crescer profissionalmente e agregar valor a projetos inovadores. 
 
-- No momento, estou mergulhando na programação mobile, especialmente no desenvolvimento Android. Estou animadíssimo em criar projetos que sejam incríveis tanto no celular quanto na web. Acho que essa combinação vai abrir muitas portas legais e me permitir contribuir em projetos que são super versáteis e completos.
+- No momento, estou mergulhando na programação mobile, especialmente no desenvolvimento Android. Estou animadíssimo em criar projetos que sejam incríveis tanto no celular quanto na web. Acho que essa combinação me permitirá contribuir em diversos projetos versáteis e completos.
 
 - Se você estiver interessado em conversar comigo, fique à vontade para entrar em contato.
 
@@ -18,11 +18,13 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HubSpot CMS](https://img.shields.io/badge/HubSpot-FF7A59.svg?style=for-the-badge&logo=HubSpot&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![AppScript](https://img.shields.io/badge/Google%20Apps%20Script-4285F4.svg?style=for-the-badge&logo=Google-Apps-Script&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -36,13 +38,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-
 ## 📫Contato
 E-mail: emidio.daniel@hotmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielemidio1988/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielEmidio1988/DanielEmidio1988)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/DanielEmidio1988)
 
 ## 🚀 Meu Progresso
 
