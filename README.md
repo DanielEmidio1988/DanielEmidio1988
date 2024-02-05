@@ -7,7 +7,7 @@
 
 - Sou determinado, motivado e adoro trocar experiências com outras pessoas, além de gostar de enfrentar novos desafios. Estou sempre aberto a novas oportunidades que me permitam crescer profissionalmente e agregar valor a projetos inovadores. 
 
-- No momento, estou mergulhando na programação mobile, especialmente no desenvolvimento Android. Estou animadíssimo em criar projetos que sejam incríveis tanto no celular quanto na web. Acho que essa combinação me permitirá contribuir em diversos projetos versáteis e completos.
+- No momento, estou me aprofundando em construir conhecimentos sólidos em FrontEnd, que me permitirão construir projetos que tragam a melhor experiência ao usuário.
 
 - Se você estiver interessado em conversar comigo, fique à vontade para entrar em contato.
 
