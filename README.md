@@ -52,7 +52,7 @@ E-mail: emidio.daniel@hotmail.com
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielEmidio1988&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEmidio1988&layout=compact)](https://github.com/DanielEmidio1988/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEmidio1988&layout=compact)
 
 [![Daniel github trophy](https://github-profile-trophy.vercel.app/?username=DanielEmidio1988&row=1)](https://github.com/DanielEmidio1988/github-profile-trophy)
 
