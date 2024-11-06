@@ -9,7 +9,7 @@ Sou desenvolvedor front-end apaixonado por transformar ideias em soluções web 
         <td>
         <h2>Sobre mim:</h2> 
             <ul>
-                <li>👨‍💻 Atuo Desenvolvedor Front End na <b>Agência Inbound</b> e Desenvolvedor Freelancer no <b>Workana</b>;</li>
+                <li>👨‍💻 Atuo como Desenvolvedor Web Pleno na <b>Apdata</b> e Desenvolvedor Freelancer no <b>Workana</b>;</li>
                 <li>📱 Atualmente estou estudando sobre <b>programação mobile</b> e continuo aprimorando sobre <b>programação web</b>;</li>
                 <li>💬 Gosto de conversar sobre <b>tecnologia, empreendedorismo e carreira</b>;</li>
                 <li>🍳 Adoro cozinhar e praticar atividade fisica como <b>crossfit</b> e <b>natação</b>.</li>
