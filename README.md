@@ -1,5 +1,5 @@
 # 👋 Olá! Meu nome é Daniel Emidio
-Sou desenvolvedor front-end apaixonado por transformar ideias em soluções web de alta qualidade. Utilizo tecnologias como JavaScript, ReactJs e TypeScript. Atualmente, estou expandindo meus conhecimentos em programação mobile, focando em Kotlin e React Native para oferecer soluções integradas e completas no futuro. Explore meu portfólio e acompanhe minha jornada!
+Sou desenvolvedor front-end apaixonado por transformar ideias em soluções web de alta qualidade. Utilizo tecnologias como JavaScript, ReactJs e TypeScript. Atualmente, estou expandindo meus conhecimentos em programação mobile, focando em React Native para oferecer soluções integradas e completas no futuro. Explore meu portfólio e acompanhe minha jornada!
 
 <table>
     <tr>
